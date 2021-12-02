@@ -20,10 +20,6 @@ Usamos alguns recursos da linguagem C :
 
 * `#include <locale.h>`
 
-* `#include <string.h>`
-
-* `#define TAM 10`
-
-  
+* `#include <string.h>`  
 
 O sistema está sobre a licença MIT e pode ser usado livremente para estudo ou uso.
